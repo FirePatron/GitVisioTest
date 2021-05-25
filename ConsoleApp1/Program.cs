@@ -10,6 +10,8 @@ namespace ConsoleApp1
 	{
 		static void Main(string[] args)
 		{
+			Console.Write("Git is good");
+			Console.Read();
 		}
 	}
 }
